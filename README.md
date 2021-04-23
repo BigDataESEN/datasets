@@ -28,3 +28,7 @@ Le fichier olympix_data.csv contient 8618 lignes et 10 colonnes. Chaque ligne co
   | 8 | Nombre de médailles en argent |
   | 9 | Nombre de médailles en bronze |
   | 10 | Nombre total de médailles |
+
+### [emp.txt](emp.txt)
+
+Un exemple de la fameuse table "EMP". Ce dataset est composé de 5 attributs comme suit : EMPNO (identifiant de l'employé), ENAME (nom de l'employé), DNAME (département), JOB (poste), LOC (ville).
