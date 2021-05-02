@@ -45,3 +45,6 @@ Ce dataset stocke l'historique des commandes d'un centre commercial (ce centre p
   | 5 | Catégorie des produits vendus  |
   | 6 | Montant de la commande |
   | 7 | Mode de paiement |
+
+Auteur de ce fichier : 
+[Lilia Sfaxi](https://github.com/liliasfaxi)
