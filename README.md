@@ -32,3 +32,16 @@ Le fichier olympix_data.csv contient 8618 lignes et 10 colonnes. Chaque ligne co
 ### [emp.txt](emp.txt)
 
 Un exemple de la fameuse table "EMP". Ce dataset est composé de 5 attributs comme suit : EMPNO (identifiant de l'employé), ENAME (nom de l'employé), DNAME (département), JOB (poste), LOC (ville).
+
+### [commandes.csv](commandes.csv) (Mini-projet)
+
+Ce dataset stocke l'historique des commandes d'un centre commercial (ce centre possède plusieurs filiales). Ce fichier contient 1048576 lignes et 7 colonnes décrites comme suit :
+  | Numéro de la colonne      | Description |
+  | :---        |    :----   |
+  | 1 | ID de la commande |
+  | 2 | Date de la commande |
+  | 3 | Heure de la commande |
+  | 4 | Adresse de la filiale (ville) |
+  | 5 | Catégorie des produits vendus  |
+  | 6 | Montant de la commande |
+  | 7 | Mode de paiement |
