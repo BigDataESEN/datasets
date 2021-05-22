@@ -33,6 +33,14 @@ Le fichier olympix_data.csv contient 8618 lignes et 10 colonnes. Chaque ligne co
 
 Un exemple de la fameuse table "EMP". Ce dataset est composé de 5 attributs comme suit : EMPNO (identifiant de l'employé), ENAME (nom de l'employé), DNAME (département), JOB (poste), LOC (ville).
 
+### [lastfm.csv](lastfm.csv)
+
+Ce fichier présente une version modifiée et légère du  dataset [Last.fm](http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html) utilisé pour la recommandation musicale. Ce dataset est composé de quatre colonnes comme suit : identifiant de l'utilisateur, la date, le nom de l'artiste, et finalement le nom de la chanson.
+
+Un échantillon de ce dataset est représenté dans la figure qui suit.
+
+![screenshot](https://www.nassimbahri.ovh/docs/bigdata/documentations/datasets/structure.png)
+
 ### [commandes.csv](commandes.csv) (Mini-projet)
 
 Ce dataset stocke l'historique des commandes d'un centre commercial (ce centre possède plusieurs filiales). Ce fichier contient 1048576 lignes et 7 colonnes décrites comme suit :
